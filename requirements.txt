@@ -1,0 +1,9 @@
+//npm install react-share --save
+npm install --save react-sharingbuttons
+
+
+
+//Profile
+
+npm install bootstrap
+npm install jquery popper.js
